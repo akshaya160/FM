@@ -98,11 +98,11 @@ Calculation
 ![WhatsApp Image 2026-02-25 at 9 20 30 PM](https://github.com/user-attachments/assets/5295a03d-9383-4647-b428-6cdceaf8bbb8)
 
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 311.8 Hz
 
-Modulation Index Practical	= 
+Modulation Index Practical	= 2.02
 
-Modulation Index Theoretical	=
+Modulation Index Theoretical	= 2.25
 
 
 
